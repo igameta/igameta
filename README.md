@@ -7,5 +7,5 @@ I can  speak English little so I'm welcome English speakers.
 ![igameta's GitHub stats](https://github-readme-stats.vercel.app/api?username=igameta&count_private=true&show_icons=true&theme=vue-dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igameta&layout=compact&count_private=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)  
 <a href="https://igameta.com">
-<img src="MORE-INFORMATION.png">
+<img src="MORE-INFORMATION.png" width="70%">
 </a>
