@@ -1,6 +1,6 @@
 # Hi!!!
 いがめたと申します。いがでもいがめたでも好きなように読んでください。  
-~~どこにでもいる趣味で情報分野をやってる人です。~~
+~~どこにでもいる趣味で情報分野をやってる人です。~~  
 ↑ 大学でちゃんとやることになりました。
 I'm igameta.Please call me iga or igameta.  
 I'm a Japanese who love Information Technologies. 
